@@ -3,7 +3,7 @@ package org.goodev;
 public class Hello {
 
 	/**
-	 * @param args
+	 * @param  
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello GitHub ! ");
